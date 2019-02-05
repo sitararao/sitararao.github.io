@@ -1,7 +1,4 @@
 
-head {
-    background-color: white;
-}
 body {
     text-align: center;
     font-family: "Arial";
@@ -14,12 +11,4 @@ img {
     max-width: 500px;
     max-height: 500px;
     padding-left: 200px;
-}
-
-h1 {
-    
-}
-
-p{
-
 }
